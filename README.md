@@ -61,3 +61,5 @@ Player O, choose your row (0-2) and column (0-2): 0 0
 ...
 Player X wins! ```
 
+### Notes
+- This project was inspired by reshmapatil2772
