@@ -34,7 +34,8 @@ This is a simple console-based Tic-Tac-Toe game implemented in C++. It allows tw
 - The game ends when a player wins or when the board is full, resulting in a draw.
 
 ### Example
-``` Tic-Tac-Toe Game!
+``` 
+Tic-Tac-Toe Game!
 -------------
 |   |   |   |
 -------------
@@ -59,7 +60,8 @@ Player O, choose your row (0-2) and column (0-2): 0 0
 |   |   |   |
 -------------
 ...
-Player X wins! ```
+Player X wins! 
+```
 
 ### Notes
-- This project was inspired by reshmapatil2772
+- This project was inspired by reshmapatil2772.
